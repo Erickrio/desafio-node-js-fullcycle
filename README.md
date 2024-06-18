@@ -17,3 +17,9 @@ Não esqueça de colocar o volume na aplicação para o ambiente de desenvolvime
 Suba tudo em um repositório e faça a entrega.
 
 * A linguagem de programação para este desafio é Node/JavaScript.
+
+
+Digite o comando: docker-compose up -d
+
+Após isso, acesse o localhost: http://localhost:8080/ no navegador
+
